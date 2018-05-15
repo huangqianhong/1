@@ -31,7 +31,7 @@ void main()
 	{
 		if(c[i]!=0)
 		{
-		  printf("%c的个数为:%d\n",i,c[i]);
+		  printf("%c碌脛赂枚脢媒脦陋:%d\n",i,c[i]);
 		}
 	}
 	
